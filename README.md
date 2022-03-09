@@ -21,7 +21,7 @@ For the [Stack Navigator](https://reactnavigation.org/docs/stack-navigator/)
 For the [Navigation](https://reactnavigation.org/docs/getting-started/)
 - @react-navigation/native
 
-To handle better the Sage Area (in particular better Android experience)
+To handle better the Safe Area (in particular better Android experience)
 - react-native-safe-area-context
 
 
