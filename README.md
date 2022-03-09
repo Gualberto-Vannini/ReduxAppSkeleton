@@ -1,6 +1,6 @@
 # Redux Skeleton App
 
-https://user-images.githubusercontent.com/22340454/157483461-f268eff5-81b7-46b7-ae9a-a9bc50b59dbe.mp4
+https://user-images.githubusercontent.com/22340454/157483868-b5f5208d-0376-4926-8411-e4505e3ea922.mp4
 
 
 This is a practical ready-to-go app skeleton. 
